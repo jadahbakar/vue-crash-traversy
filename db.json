@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Subuhan",
+      "day": "March 1st at 4:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Dzuhur",
+      "day": "March 1st at 11:30am",
+      "reminder": true
+    },
+    {
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "text": "Maghrib",
+      "day": "March 1st at 5:45pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Isya",
+      "day": "March 1st at 7:30pm",
+      "reminder": true
+    }
+  ]
+}
